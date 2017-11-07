@@ -1,7 +1,7 @@
 # Distributional Reinforcement Learning
 Tensorflow implementation of distributional reinforcement learning.
 Currently the C51 Q-Learning Distributional Algorithm based on the 
-paper `A Distributional Perspective on Reinforcement`[1](https://arxiv.org/abs/1707.06887) by Belamere et al. 
+paper A Distributional Perspective on Reinforcement by Belamere et al. [[1]](https://arxiv.org/abs/1707.06887)
 is implemented in Tensorflow.
 Might contain some bugs.
 
@@ -9,6 +9,6 @@ Distributional Q-Learning seems to be more sample efficient than regular Q-Learn
 
 ## Planned Work
 
-# Clean up code
-# Implementation of Distributional Deterministic Policy Gradients
-# Implementation of D4G
+* Clean up code
+* Implementation of Distributional Deterministic Policy Gradients
+* Implementation of D4G
